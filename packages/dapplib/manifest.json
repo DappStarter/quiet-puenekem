@@ -1,0 +1,9 @@
+{
+    "name": "Flow Demo",
+    "blocks": {
+        "/blockchain/flow": true,
+        "/blockchain/flow/cadence": true,
+        "/framework/vanilla": true,
+        "/category/voting/ballot": true
+    }
+}
